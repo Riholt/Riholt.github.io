@@ -1,0 +1,16 @@
+body {
+    background-color: darkgrey;
+}
+
+h1 {
+  color: white;
+  margin: auto;
+}
+
+pre code {
+  background-color: white;
+  margin: auto;
+  border: 1px solid black;
+  display: block;
+  padding: 20px;
+}
